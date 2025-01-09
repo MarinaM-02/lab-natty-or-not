@@ -12,8 +12,6 @@ Tive meu primeiro contato com a criação de avatar virtual e foi bem intuitivo 
 🚀 Resultados
 O vídeo é uma despedida simulada de um vídeo para um canal de educação. 
 
-LINK PARA O VÍDEO AQUI
-
 💭 Reflexão
 Este projeto foi meu primeiro contato com IA Generativa e me abriu um mundo de conhecimento. 
 
